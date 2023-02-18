@@ -1,5 +1,4 @@
-# Decentralized-Application
-Minting Application using ERC-721 Smart Contract with OS Royalites
+
 
 This boilerplate is fully compatible with `contract/ERC721A with OS royalties.sol`.
 
